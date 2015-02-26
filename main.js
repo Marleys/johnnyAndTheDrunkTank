@@ -36,6 +36,7 @@ function display(stuff) {
 	}
 }
 
+// extra stuff...
 // uppgift 3
 // skapar en tom array och sen går loopen igenom alla attribut i objektet och för varje itteration
 // blir det push(attributets namn) som sparas i arrayen.
